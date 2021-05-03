@@ -23,6 +23,7 @@ Stock Analysis of Green Energy stocks and their performance over a specified yea
 * Using the comparison of both tables you can see that RUN and ENPH are your best bet for going investing. In both years they showed returns with RUN growing by 76% in the next year.
 
 ## Summary
-  * The Advantages of refactoring code can quickly be seen to be more dynamic and have a greater utility. They can be run continually.
+  * The Advantages of refactoring code can quickly be seen to be more dynamic and have a greater utility. They can be run continually and they run faster than the orginal VBA Script.
   * The Disadvantages are that mistakes can be made and there is time that has to be invested in order for the code to be refactored.
-  * There are a few pros and cons of refactoring my original VBA script. Firstly, it is quite tedious to rewrite the code. So there is a loss in time but that is usually the case for making something more convenient for the future. This script is now more dynamic and offers more automation. Multiple worksheets can be used. You are not confined to one year as the first script is, which means this can be used for future stock analyses by just using new yearly data.
+  * There are a few pros and cons of refactoring my original VBA script. Firstly, it is quite tedious to rewrite the code. So there is a loss in time but that is usually the case for making something more convenient for the future. This script is now runs almost two times faster than the original and is more dynamic and offers more automation. Multiple worksheets can be used over time. You are not confined to one year as the first script is, which means this can be used for future stock analyses by just using new yearly data.
+  * This allows the user to gain their information faster that they need to make timely investments while knowing the stocks yearly performance. 
