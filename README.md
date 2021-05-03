@@ -14,11 +14,11 @@ Stock Analysis of Green Energy stocks and their performance over a specified yea
  
 ## Results
 * Now if we look 2017 green energy stocks here:
-![](Resources/VBA_Challenge_2017.png.png)
+![](Resources/VBA_Challenge_2018.png.png)
 * We can see that most 2017 green stocks were showing positive returns outside of stock ticker TERP.
 * Using this chart, one would believe that investing in green stocks yeild a positive return for the most part. 
 * BUT when compared to 2018 here:
-![](Resources/VBA_Challenge_2018.png.png)
+![](Resources/VBA_Challenge_2017.png.png)
 * All of the stocks except stock tickers RUN and ENPH are showing loss in their returns. 
 * Using the comparison of both tables you can see that RUN and ENPH are your best bet for going investing. In both years they showed returns with RUN growing by 76% in the next year.
 
