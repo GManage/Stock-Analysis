@@ -9,7 +9,7 @@ Stock Analysis of Green Energy stocks and their performance over a specified yea
 ## Analysis
   * The original stock dataset given was too broad and needed to be broken down for a better and more efficient analysis.
   * The original script that was created only used the year 2018. 
-  * While writing the script for refactoring the stock analysis I ran into an issue with how to count the first row and last row but found some code on stackoverflow   that helped with finding whether the first or last rows contain a specific ticker, Refer to link below:
+  * While writing the script for refactoring the stock analysis I ran into an issue with how to count the first row and last row but found some code on stackoverflow that helped with finding whether the first or last rows contain a specific ticker, Refer to link below:
   * https://stackoverflow.com/questions/29019237/find-first-and-last-row-containing-specific-text/29019562#29019562
  
 ## Results
