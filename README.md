@@ -24,8 +24,9 @@ Stock Analysis of Green Energy stocks and their performance over a specified yea
 
 ## Analysis of Outcomes Based on Goals
   * Please refer to this chart below
-  * 
- ![](Resources/VBA_Challenge_2018
+ ![](Resources/VBA_Challenge_2017.png
+ ![](Resources/VBA_Challenge_2018.png
+ 
  
   * This chart refers to the percentage of success a campaign had in correspondence to it's goal.
   * With this chart it also displays some unpredictability after goals that needed for the $20,000. The percentage of success fluctuates at that point. 
